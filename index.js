@@ -1,3 +1,4 @@
-main;
+function asd() {}
+asd();
 
-hi;
+console.log("hi");
